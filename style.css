@@ -1,0 +1,18 @@
+*
+{
+    background-color: rgb(189, 191, 246);
+    color:azure;
+    text-align: center;
+}
+
+
+img{
+    border-radius: 7rem;
+}
+
+
+p{
+    line-height: 2;
+    font-weight: 900;
+    font-size: x-large;
+}
